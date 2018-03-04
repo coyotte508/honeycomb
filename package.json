@@ -44,7 +44,8 @@
     "rollup-plugin-uglify": "3.0.0",
     "sinon": "4.3.0",
     "sinon-chai": "2.14.0",
-    "standard-version": "4.3.0"
+    "standard-version": "4.3.0",
+    "typescript": "2.7.2"
   },
   "directories": {
     "test": "test"
